@@ -80,26 +80,26 @@ def game_hash
           :slam_dunks=> 2
         },
         {
-          :player_name => "Reggie Evans",
-          :number => 30,
-          :shoe=> 14,
+          :player_name => "Bismack Biyombo",
+          :number => 0,
+          :shoe=> 16,
           :points=> 12,
-          :rebounds=> 12,
-          :assists=> 12,
-          :steals=>12,
-          :blocks=> 12,
-          :slam_dunks=> 7
+          :rebounds=> 4,
+          :assists=> 7,
+          :steals=>22,
+          :blocks=> 15,
+          :slam_dunks=> 10
         },
         {
-          :player_name => "Brook Lopez",
-          :number => 11,
-          :shoe=> 17,
-          :points=> 17,
-          :rebounds=> 19,
-          :assists=> 10,
-          :steals=> 3,
-          :blocks=> 1,
-          :slam_dunks=> 15
+          :player_name => "DeSagna Diop",
+          :number => 2,
+          :shoe=> 14,
+          :points=> 24,
+          :rebounds=> 12,
+          :assists=> 12,
+          :steals=> 4,
+          :blocks=> 5,
+          :slam_dunks=> 5
         },
         {
           :player_name => "Mason Plumlee",
