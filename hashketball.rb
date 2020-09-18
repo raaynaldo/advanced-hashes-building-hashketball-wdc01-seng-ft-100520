@@ -9,6 +9,7 @@ def game_hash
       :colors => ""
       :players => {
         :player_name => "",
+        :number => ""
 
       }
     },
