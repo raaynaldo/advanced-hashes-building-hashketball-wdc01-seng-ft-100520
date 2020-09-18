@@ -1,5 +1,6 @@
 # Write your code here!
-include "pry"
+require "pry"
+
 def game_hash
 
 end
