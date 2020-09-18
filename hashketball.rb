@@ -2,7 +2,6 @@
 
 def game_hash
   require "pry"
-  return {}
   return {
     :home=>{
       :team_name => "",
