@@ -4,11 +4,13 @@ def game_hash
   require "pry"
   return {
     :home=>{
-      :team_name => "",
-      :colors => "",
+      :team_name => "Brooklyn Nets",
+      :colors => ["Black", "White"],
       :players => {
         :player_name => "",
-        :number => ""
+        :number => "",
+        :shoe=> "",
+        :points=> 
       }
     },
     :away=>{
