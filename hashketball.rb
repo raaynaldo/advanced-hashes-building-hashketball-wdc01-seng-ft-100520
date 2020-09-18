@@ -5,16 +5,16 @@ def game_hash
   return {}
   return {
     :home=>{
-      :team_name => ""
-      :colors => ""
+      :team_name => "",
+      :colors => "",
       :players => {
         :player_name => "",
         :number => ""
       }
     },
     :away=>{
-      :team_name => ""
-      :colors => ""
+      :team_name => "",
+      :colors => "",
       :players => ""
     }
   }
